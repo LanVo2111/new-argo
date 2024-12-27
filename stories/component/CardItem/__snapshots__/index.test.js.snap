@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test props 1`] = `
+<div
+  className="card-item"
+>
+  <div
+    className="category"
+  >
+    SUV
+  </div>
+  <h3
+    className="title"
+  >
+    <a
+      href=""
+    >
+      2022 Kia Suv
+    </a>
+  </h3>
+  <div
+    className="image"
+  >
+    <img
+      alt="image"
+      src="https://e7.pngegg.com/pngimages/114/496/png-clipart-kia-motors-car-2016-kia-sportage-2018-kia-sportage-kia-compact-car-car.png"
+    />
+  </div>
+  <div
+    className="content"
+  >
+    <span
+      className="price"
+    >
+      $
+      23805
+    </span>
+    <p
+      className="description"
+    >
+      aaaa
+    </p>
+  </div>
+  <button
+    className="storybook-button storybook-button--medium storybook-button--secondary"
+    style={
+      {
+        "backgroundColor": "#ec9031",
+        "color": "#fff",
+      }
+    }
+    type="button"
+  >
+    Button
+  </button>
+</div>
+`;
